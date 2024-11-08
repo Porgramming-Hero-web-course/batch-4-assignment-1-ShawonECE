@@ -17,7 +17,7 @@ function combine(input1: CombinedType, input2: CombinedType) {
   }
 }
 
-console.log(combine('Max', 'Master')); // Output: Master
+console.log(combine('Max', 'Master')); // Output: MaxMaster
 console.log(combine(23, 33)); // Output: 56
 ```
 
